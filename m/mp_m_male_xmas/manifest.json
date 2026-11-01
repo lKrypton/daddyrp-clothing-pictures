@@ -1,0 +1,149 @@
+{
+ "collection": "Male_xmas",
+ "gender": "m",
+ "size": 256,
+ "format": "webp",
+ "items": [
+  {
+   "slot": "accs",
+   "idx": 0,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "accs",
+   "idx": 1,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "berd",
+   "idx": 0,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "berd",
+   "idx": 1,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "berd",
+   "idx": 2,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "feet",
+   "idx": 0,
+   "textures": 1,
+   "angle": 35,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 0,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 1,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "lowr",
+   "idx": 0,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "p_head",
+   "idx": 0,
+   "textures": 2,
+   "angle": 15,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "p_head",
+   "idx": 1,
+   "textures": 1,
+   "angle": 15,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_head",
+   "idx": 2,
+   "textures": 1,
+   "angle": 15,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 1,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  }
+ ],
+ "empty": []
+}

@@ -1,0 +1,342 @@
+{
+ "collection": "mp_m_gunrunning_hair_01",
+ "gender": "m",
+ "size": 256,
+ "format": "webp",
+ "items": [
+  {
+   "slot": "hair",
+   "idx": 0,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 1,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 2,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 3,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 4,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 5,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 6,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 7,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 8,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 9,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 10,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 11,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 12,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 13,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 14,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 15,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 16,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 17,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 18,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 19,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 20,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 21,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 22,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 23,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 24,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 25,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 26,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 27,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 28,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 29,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 30,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 31,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 32,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 33,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 34,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 35,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 36,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  }
+ ],
+ "empty": []
+}

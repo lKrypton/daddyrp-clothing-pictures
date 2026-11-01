@@ -1,0 +1,39 @@
+{
+ "collection": "mp_m_assault",
+ "gender": "m",
+ "size": 256,
+ "format": "webp",
+ "items": [
+  {
+   "slot": "jbib",
+   "idx": 0,
+   "textures": 7,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "slot": "lowr",
+   "idx": 0,
+   "textures": 7,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  }
+ ],
+ "empty": []
+}
