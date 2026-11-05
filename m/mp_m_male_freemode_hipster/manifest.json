@@ -115,6 +115,18 @@
   },
   {
    "slot": "jbib",
+   "idx": 11,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 12,
    "textures": 4,
    "angle": 0,
@@ -443,6 +455,16 @@
   },
   {
    "slot": "jbib",
+   "idx": 43,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 44,
    "textures": 1,
    "angle": 0,
@@ -511,6 +533,17 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 51,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -648,6 +681,18 @@
   },
   {
    "slot": "jbib",
+   "idx": 65,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 66,
    "textures": 2,
    "angle": 0,
@@ -753,6 +798,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 76,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 77,
    "textures": 4,
    "angle": 0,
@@ -787,7 +843,31 @@
   },
   {
    "slot": "jbib",
+   "idx": 80,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 81,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 82,
    "textures": 4,
    "angle": 0,
    "pictures": [
@@ -807,6 +887,17 @@
     1,
     2,
     3
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 84,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -831,12 +922,56 @@
   },
   {
    "slot": "jbib",
+   "idx": 87,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 88,
    "textures": 2,
    "angle": 0,
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 89,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 90,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 91,
+   "textures": 6,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
    ]
   },
   {
@@ -946,6 +1081,33 @@
   },
   {
    "slot": "jbib",
+   "idx": 100,
+   "textures": 9,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 101,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 102,
    "textures": 1,
    "angle": 0,
@@ -971,6 +1133,15 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 105,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
    ]
   },
   {
@@ -1596,6 +1767,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 170,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 171,
    "textures": 1,
    "angle": 0,
@@ -1957,6 +2139,16 @@
   },
   {
    "slot": "jbib",
+   "idx": 208,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 209,
    "textures": 3,
    "angle": 0,
@@ -2079,6 +2271,15 @@
   },
   {
    "slot": "jbib",
+   "idx": 221,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 222,
    "textures": 1,
    "angle": 0,
@@ -2157,6 +2358,15 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 230,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
    ]
   },
   {
@@ -2377,6 +2587,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 253,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 254,
    "textures": 3,
    "angle": 0,
@@ -2387,26 +2608,6 @@
    ]
   }
  ],
- "empty": [
-  "jbib_011",
-  "jbib_043",
-  "jbib_051",
-  "jbib_065",
-  "jbib_076",
-  "jbib_080",
-  "jbib_082",
-  "jbib_084",
-  "jbib_087",
-  "jbib_089",
-  "jbib_090",
-  "jbib_091",
-  "jbib_100",
-  "jbib_101",
-  "jbib_105",
-  "jbib_170",
-  "jbib_208",
-  "jbib_221",
-  "jbib_230",
-  "jbib_253"
- ]
+ "empty": [],
+ "unloaded": []
 }

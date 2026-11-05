@@ -130,6 +130,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 12,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 13,
    "textures": 1,
    "angle": 0,
@@ -250,6 +261,15 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 25,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
    ]
   },
   {
@@ -377,6 +397,16 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 39,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
    ]
   },
   {
@@ -667,6 +697,15 @@
   },
   {
    "slot": "jbib",
+   "idx": 68,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 69,
    "textures": 3,
    "angle": 0,
@@ -777,10 +816,7 @@
   }
  ],
  "empty": [
-  "jbib_012",
-  "jbib_025",
-  "jbib_029",
-  "jbib_039",
-  "jbib_068"
- ]
+  "jbib_029"
+ ],
+ "unloaded": []
 }

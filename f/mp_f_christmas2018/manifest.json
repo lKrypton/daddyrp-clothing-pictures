@@ -415,15 +415,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 0,
    "textures": 26,
@@ -1557,9 +1548,11 @@
  ],
  "empty": [
   "accs_000",
+  "decl_000",
   "feet_005",
   "jbib_009",
   "jbib_010",
   "lowr_007"
- ]
+ ],
+ "unloaded": []
 }

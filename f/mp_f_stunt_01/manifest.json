@@ -128,36 +128,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 6,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 1,
-   "textures": 8,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 1,
    "textures": 12,
@@ -741,6 +711,8 @@
   }
  ],
  "empty": [
+  "decl_000",
+  "decl_001",
   "decl_002",
   "decl_003",
   "feet_000",
@@ -749,5 +721,6 @@
   "lowr_001",
   "lowr_003",
   "lowr_004"
- ]
+ ],
+ "unloaded": []
 }

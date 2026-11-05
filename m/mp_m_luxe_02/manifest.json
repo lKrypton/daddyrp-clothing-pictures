@@ -16,6 +16,19 @@
   },
   {
    "slot": "jbib",
+   "idx": 0,
+   "textures": 5,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 1,
    "textures": 4,
    "angle": 0,
@@ -48,6 +61,16 @@
     13,
     14,
     15
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 0,
+   "textures": 2,
+   "angle": -90,
+   "pictures": [
+    0,
+    1
    ]
   },
   {
@@ -134,6 +157,28 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 9,
+   "textures": 3,
+   "angle": 90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 10,
+   "textures": 3,
+   "angle": 90,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -487,6 +532,40 @@
   },
   {
    "slot": "teef",
+   "idx": 23,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 24,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 25,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 26,
    "textures": 4,
    "angle": 0,
@@ -525,6 +604,17 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 30,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -581,15 +671,8 @@
   }
  ],
  "empty": [
-  "jbib_000",
-  "p_ears_000",
-  "p_ears_009",
-  "p_ears_010",
   "p_ears_012",
-  "teef_010",
-  "teef_023",
-  "teef_024",
-  "teef_025",
-  "teef_030"
- ]
+  "teef_010"
+ ],
+ "unloaded": []
 }

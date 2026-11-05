@@ -150,42 +150,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 1,
-   "textures": 19,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 0,
    "textures": 1,
@@ -1153,6 +1117,8 @@
   "accs_003",
   "accs_004",
   "accs_005",
+  "decl_000",
+  "decl_001",
   "feet_003",
   "jbib_008",
   "jbib_017",
@@ -1179,5 +1145,6 @@
   "task_012",
   "task_013",
   "task_014"
- ]
+ ],
+ "unloaded": []
 }

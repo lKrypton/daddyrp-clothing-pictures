@@ -1819,6 +1819,17 @@
   },
   {
    "slot": "decl",
+   "idx": 0,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "decl",
    "idx": 1,
    "textures": 5,
    "angle": 0,
@@ -1883,7 +1894,7 @@
    "slot": "decl",
    "idx": 8,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -4664,11 +4675,11 @@
   "accs_073",
   "accs_154",
   "accs_164",
-  "decl_000",
   "decl_003",
   "jbib_043",
   "task_000",
   "task_003",
   "task_007"
- ]
+ ],
+ "unloaded": []
 }

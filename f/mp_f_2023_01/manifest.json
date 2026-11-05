@@ -91,149 +91,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 3,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 7,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 11,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 12,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 13,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 14,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 15,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 20,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 25,
-   "textures": 14,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 27,
-   "textures": 14,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 28,
-   "textures": 5,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 0,
    "textures": 26,
@@ -969,23 +826,35 @@
   "berd_005",
   "berd_006",
   "berd_008",
+  "decl_000",
   "decl_001",
   "decl_002",
+  "decl_003",
   "decl_004",
   "decl_005",
   "decl_006",
+  "decl_007",
   "decl_008",
   "decl_009",
   "decl_010",
+  "decl_011",
+  "decl_012",
+  "decl_013",
+  "decl_014",
+  "decl_015",
   "decl_016",
   "decl_017",
   "decl_018",
   "decl_019",
+  "decl_020",
   "decl_021",
   "decl_022",
   "decl_023",
   "decl_024",
+  "decl_025",
   "decl_026",
+  "decl_027",
+  "decl_028",
   "decl_029",
   "decl_030",
   "decl_031",
@@ -1059,5 +928,6 @@
   "teef_007",
   "teef_008",
   "uppr_000"
- ]
+ ],
+ "unloaded": []
 }

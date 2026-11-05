@@ -241,6 +241,16 @@
   },
   {
    "slot": "hair",
+   "idx": 27,
+   "textures": 2,
+   "angle": 30,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 28,
    "textures": 1,
    "angle": 30,
@@ -274,6 +284,15 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 32,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
    ]
   },
   {
@@ -360,6 +379,15 @@
   },
   {
    "slot": "hair",
+   "idx": 42,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 43,
    "textures": 1,
    "angle": 30,
@@ -388,6 +416,15 @@
   },
   {
    "slot": "hair",
+   "idx": 46,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 47,
    "textures": 1,
    "angle": 30,
@@ -403,6 +440,15 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 49,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
    ]
   },
   {
@@ -651,6 +697,15 @@
   },
   {
    "slot": "hair",
+   "idx": 77,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 78,
    "textures": 1,
    "angle": 30,
@@ -815,6 +870,15 @@
   },
   {
    "slot": "hair",
+   "idx": 97,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 98,
    "textures": 1,
    "angle": 30,
@@ -917,6 +981,15 @@
   {
    "slot": "hair",
    "idx": 109,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 110,
    "textures": 1,
    "angle": 30,
    "pictures": [
@@ -1086,6 +1159,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 9,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 10,
    "textures": 2,
    "angle": 0,
@@ -1198,6 +1282,15 @@
   },
   {
    "slot": "jbib",
+   "idx": 21,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 22,
    "textures": 2,
    "angle": 0,
@@ -1290,6 +1383,16 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 31,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
    ]
   },
   {
@@ -1423,6 +1526,18 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 45,
+   "textures": 4,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3
    ]
   },
   {
@@ -2148,6 +2263,17 @@
    "pictures": [
     0,
     1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 119,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -3355,6 +3481,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 231,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 232,
    "textures": 1,
    "angle": 0,
@@ -3592,20 +3729,7 @@
  ],
  "empty": [
   "hair_021",
-  "hair_027",
-  "hair_032",
-  "hair_042",
-  "hair_046",
-  "hair_049",
-  "hair_077",
-  "hair_079",
-  "hair_097",
-  "hair_110",
-  "jbib_009",
-  "jbib_021",
-  "jbib_031",
-  "jbib_045",
-  "jbib_119",
-  "jbib_231"
- ]
+  "hair_079"
+ ],
+ "unloaded": []
 }

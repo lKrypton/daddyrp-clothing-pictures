@@ -469,6 +469,39 @@
    ]
   },
   {
+   "slot": "feet",
+   "idx": 1,
+   "textures": 16,
+   "angle": 35,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "slot": "feet",
+   "idx": 2,
+   "textures": 1,
+   "angle": 35,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "hair",
    "idx": 0,
    "textures": 1,
@@ -810,6 +843,20 @@
    ]
   },
   {
+   "slot": "jbib",
+   "idx": 16,
+   "textures": 6,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
    "slot": "lowr",
    "idx": 0,
    "textures": 1,
@@ -914,6 +961,15 @@
   {
    "slot": "p_ears",
    "idx": 1,
+   "textures": 1,
+   "angle": 90,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 2,
    "textures": 1,
    "angle": 90,
    "pictures": [
@@ -1875,10 +1931,7 @@
  "empty": [
   "accs_002",
   "decl_000",
-  "decl_001",
-  "feet_001",
-  "feet_002",
-  "jbib_016",
-  "p_ears_002"
- ]
+  "decl_001"
+ ],
+ "unloaded": []
 }

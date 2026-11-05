@@ -295,15 +295,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 12,
    "textures": 1,
@@ -1172,6 +1163,7 @@
   "accs_001",
   "accs_002",
   "accs_003",
+  "decl_000",
   "feet_000",
   "feet_001",
   "feet_002",
@@ -1191,5 +1183,6 @@
   "lowr_010",
   "lowr_011",
   "lowr_012"
- ]
+ ],
+ "unloaded": []
 }

@@ -251,7 +251,32 @@
   },
   {
    "slot": "lowr",
+   "idx": 1,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "lowr",
    "idx": 2,
+   "textures": 6,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "slot": "lowr",
+   "idx": 3,
    "textures": 6,
    "angle": 0,
    "pictures": [
@@ -273,6 +298,17 @@
     1,
     2,
     3
+   ]
+  },
+  {
+   "slot": "lowr",
+   "idx": 5,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -404,9 +440,6 @@
    ]
   }
  ],
- "empty": [
-  "lowr_001",
-  "lowr_003",
-  "lowr_005"
- ]
+ "empty": [],
+ "unloaded": []
 }

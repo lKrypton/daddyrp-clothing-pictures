@@ -91,6 +91,35 @@
    ]
   },
   {
+   "slot": "feet",
+   "idx": 1,
+   "textures": 1,
+   "angle": 35,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 0,
+   "textures": 12,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
    "slot": "jbib",
    "idx": 1,
    "textures": 1,
@@ -200,6 +229,17 @@
   },
   {
    "slot": "p_ears",
+   "idx": 2,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_ears",
    "idx": 3,
    "textures": 2,
    "angle": -90,
@@ -231,6 +271,39 @@
   {
    "slot": "p_ears",
    "idx": 6,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 7,
+   "textures": 3,
+   "angle": 90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 8,
+   "textures": 3,
+   "angle": 90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_ears",
+   "idx": 9,
    "textures": 3,
    "angle": -90,
    "pictures": [
@@ -321,8 +394,32 @@
    ]
   },
   {
+   "slot": "p_ears",
+   "idx": 17,
+   "textures": 5,
+   "angle": 90,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
    "slot": "p_lwrist",
    "idx": 0,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_lwrist",
+   "idx": 1,
    "textures": 3,
    "angle": -90,
    "pictures": [
@@ -611,7 +708,73 @@
   },
   {
    "slot": "teef",
+   "idx": 21,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 22,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 23,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 24,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 25,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 26,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 27,
    "textures": 3,
    "angle": 0,
    "pictures": [
@@ -646,6 +809,19 @@
   },
   {
    "slot": "teef",
+   "idx": 30,
+   "textures": 5,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 31,
    "textures": 5,
    "angle": 0,
@@ -659,21 +835,7 @@
   }
  ],
  "empty": [
-  "feet_001",
-  "jbib_000",
-  "p_ears_002",
-  "p_ears_007",
-  "p_ears_008",
-  "p_ears_009",
-  "p_ears_017",
-  "p_lwrist_001",
-  "task_000",
-  "teef_021",
-  "teef_022",
-  "teef_023",
-  "teef_025",
-  "teef_026",
-  "teef_027",
-  "teef_030"
- ]
+  "task_000"
+ ],
+ "unloaded": []
 }

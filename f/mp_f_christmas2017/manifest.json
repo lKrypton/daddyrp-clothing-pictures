@@ -386,7 +386,7 @@
    "slot": "decl",
    "idx": 9,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -1169,5 +1169,6 @@
   "lowr_005",
   "p_head_000",
   "teef_002"
- ]
+ ],
+ "unloaded": []
 }

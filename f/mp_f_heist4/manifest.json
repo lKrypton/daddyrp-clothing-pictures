@@ -274,15 +274,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 0,
    "textures": 1,
@@ -1061,6 +1052,7 @@
  ],
  "empty": [
   "accs_000",
+  "decl_000",
   "feet_001",
   "p_rwrist_000",
   "teef_002",
@@ -1070,5 +1062,6 @@
   "teef_009",
   "teef_011",
   "teef_012"
- ]
+ ],
+ "unloaded": []
 }

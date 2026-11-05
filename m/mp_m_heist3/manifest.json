@@ -484,73 +484,6 @@
    ]
   },
   {
-   "slot": "decl",
-   "idx": 2,
-   "textures": 7,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 3,
-   "textures": 7,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 6,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 9,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 10,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 11,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
    "slot": "feet",
    "idx": 0,
    "textures": 1,
@@ -1250,15 +1183,22 @@
   "accs_000",
   "decl_000",
   "decl_001",
+  "decl_002",
+  "decl_003",
   "decl_004",
   "decl_005",
+  "decl_006",
   "decl_007",
   "decl_008",
+  "decl_009",
+  "decl_010",
+  "decl_011",
   "decl_012",
   "decl_013",
   "jbib_000",
   "jbib_001",
   "lowr_004",
   "lowr_005"
- ]
+ ],
+ "unloaded": []
 }
