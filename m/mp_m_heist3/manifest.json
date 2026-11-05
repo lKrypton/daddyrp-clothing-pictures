@@ -6,16 +6,6 @@
  "items": [
   {
    "slot": "accs",
-   "idx": 0,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "accs",
    "idx": 1,
    "textures": 12,
    "angle": 0,
@@ -707,26 +697,6 @@
   },
   {
    "slot": "jbib",
-   "idx": 0,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 1,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "jbib",
    "idx": 2,
    "textures": 9,
    "angle": 0,
@@ -1007,62 +977,6 @@
   },
   {
    "slot": "lowr",
-   "idx": 4,
-   "textures": 20,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19
-   ]
-  },
-  {
-   "slot": "lowr",
-   "idx": 5,
-   "textures": 20,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19
-   ]
-  },
-  {
-   "slot": "lowr",
    "idx": 6,
    "textures": 1,
    "angle": 0,
@@ -1333,6 +1247,7 @@
   }
  ],
  "empty": [
+  "accs_000",
   "decl_000",
   "decl_001",
   "decl_004",
@@ -1340,6 +1255,10 @@
   "decl_007",
   "decl_008",
   "decl_012",
-  "decl_013"
+  "decl_013",
+  "jbib_000",
+  "jbib_001",
+  "lowr_004",
+  "lowr_005"
  ]
 }

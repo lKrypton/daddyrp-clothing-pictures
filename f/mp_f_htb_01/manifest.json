@@ -3,34 +3,10 @@
  "gender": "f",
  "size": 256,
  "format": "webp",
- "items": [
-  {
-   "slot": "berd",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "uppr",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  }
- ],
- "empty": []
+ "items": [],
+ "empty": [
+  "berd_000",
+  "jbib_000",
+  "uppr_000"
+ ]
 }

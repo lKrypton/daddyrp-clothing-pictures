@@ -666,40 +666,27 @@
     2,
     3,
     4,
+    5,
+    6,
     7,
     8,
     9,
     10,
+    11,
+    12,
     13,
     14,
     15,
     16,
+    17,
     18,
+    19,
     20,
+    21,
     22,
     23,
     24,
     25
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 0,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 1,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
    ]
   },
   {
@@ -1067,34 +1054,6 @@
   },
   {
    "slot": "lowr",
-   "idx": 4,
-   "textures": 20,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19
-   ]
-  },
-  {
-   "slot": "lowr",
    "idx": 5,
    "textures": 20,
    "angle": 0,
@@ -1319,25 +1278,7 @@
   },
   {
    "slot": "task",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "task",
    "idx": 1,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "task",
-   "idx": 2,
    "textures": 1,
    "angle": 0,
    "pictures": [
@@ -1390,6 +1331,11 @@
   "decl_005",
   "decl_007",
   "decl_012",
-  "hand_003"
+  "hand_003",
+  "jbib_000",
+  "jbib_001",
+  "lowr_004",
+  "task_000",
+  "task_002"
  ]
 }

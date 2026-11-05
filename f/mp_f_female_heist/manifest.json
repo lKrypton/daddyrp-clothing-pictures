@@ -516,24 +516,6 @@
   },
   {
    "slot": "feet",
-   "idx": 1,
-   "textures": 1,
-   "angle": 35,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 2,
-   "textures": 1,
-   "angle": 35,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "feet",
    "idx": 3,
    "textures": 1,
    "angle": 35,
@@ -1065,15 +1047,6 @@
   {
    "slot": "p_ears",
    "idx": 1,
-   "textures": 1,
-   "angle": 90,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "p_ears",
-   "idx": 2,
    "textures": 1,
    "angle": 90,
    "pictures": [
@@ -2273,6 +2246,9 @@
  "empty": [
   "accs_002",
   "decl_000",
-  "decl_001"
+  "decl_001",
+  "feet_001",
+  "feet_002",
+  "p_ears_002"
  ]
 }

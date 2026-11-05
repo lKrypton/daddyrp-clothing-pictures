@@ -6,28 +6,6 @@
  "items": [
   {
    "slot": "accs",
-   "idx": 0,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 1,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "accs",
    "idx": 2,
    "textures": 3,
    "angle": 0,
@@ -98,22 +76,6 @@
    ]
   },
   {
-   "slot": "feet",
-   "idx": 1,
-   "textures": 8,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-   ]
-  },
-  {
    "slot": "hair",
    "idx": 0,
    "textures": 1,
@@ -147,53 +109,6 @@
    "angle": 30,
    "pictures": [
     0
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 0,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 1,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 2,
-   "textures": 4,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3
-   ]
-  },
-  {
-   "slot": "jbib",
-   "idx": 3,
-   "textures": 5,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4
    ]
   },
   {
@@ -293,15 +208,6 @@
    ]
   },
   {
-   "slot": "p_ears",
-   "idx": 2,
-   "textures": 1,
-   "angle": 90,
-   "pictures": [
-    0
-   ]
-  },
-  {
    "slot": "p_head",
    "idx": 0,
    "textures": 26,
@@ -375,6 +281,14 @@
   }
  ],
  "empty": [
-  "decl_000"
+  "accs_000",
+  "accs_001",
+  "decl_000",
+  "feet_001",
+  "jbib_000",
+  "jbib_001",
+  "jbib_002",
+  "jbib_003",
+  "p_ears_002"
  ]
 }

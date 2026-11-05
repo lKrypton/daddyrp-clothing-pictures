@@ -848,61 +848,6 @@
   },
   {
    "slot": "teef",
-   "idx": 0,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 1,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 2,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 3,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 4,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
    "idx": 5,
    "textures": 3,
    "angle": 0,
@@ -932,78 +877,6 @@
     0,
     1,
     2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 8,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 9,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 10,
-   "textures": 17,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 11,
-   "textures": 17,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16
    ]
   },
   {
@@ -1229,5 +1102,15 @@
    ]
   }
  ],
- "empty": []
+ "empty": [
+  "teef_000",
+  "teef_001",
+  "teef_002",
+  "teef_003",
+  "teef_004",
+  "teef_008",
+  "teef_009",
+  "teef_010",
+  "teef_011"
+ ]
 }

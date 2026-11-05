@@ -385,59 +385,7 @@
   },
   {
    "slot": "feet",
-   "idx": 0,
-   "textures": 6,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 1,
-   "textures": 6,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 2,
-   "textures": 2,
-   "angle": 35,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "feet",
    "idx": 3,
-   "textures": 6,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 4,
    "textures": 6,
    "angle": 35,
    "pictures": [
@@ -1808,6 +1756,10 @@
   "decl_027",
   "decl_028",
   "decl_029",
+  "feet_000",
+  "feet_001",
+  "feet_002",
+  "feet_004",
   "p_lwrist_000",
   "p_lwrist_001",
   "p_lwrist_002",

@@ -6,19 +6,6 @@
  "items": [
   {
    "slot": "accs",
-   "idx": 0,
-   "textures": 5,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4
-   ]
-  },
-  {
-   "slot": "accs",
    "idx": 1,
    "textures": 1,
    "angle": 0,
@@ -80,44 +67,6 @@
    "pictures": [
     0,
     1
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 3,
-   "textures": 4,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 4,
-   "textures": 5,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 5,
-   "textures": 5,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4
    ]
   },
   {
@@ -567,39 +516,6 @@
    ]
   },
   {
-   "slot": "task",
-   "idx": 1,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "task",
-   "idx": 2,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "teef",
-   "idx": 0,
-   "textures": 3,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
    "slot": "teef",
    "idx": 1,
    "textures": 1,
@@ -629,8 +545,15 @@
   }
  ],
  "empty": [
+  "accs_000",
   "berd_000",
+  "feet_003",
+  "feet_004",
+  "feet_005",
   "lowr_000",
-  "p_head_001"
+  "p_head_001",
+  "task_001",
+  "task_002",
+  "teef_000"
  ]
 }

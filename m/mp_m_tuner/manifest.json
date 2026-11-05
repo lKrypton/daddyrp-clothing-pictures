@@ -5,107 +5,6 @@
  "format": "webp",
  "items": [
   {
-   "slot": "accs",
-   "idx": 0,
-   "textures": 21,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 1,
-   "textures": 21,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 2,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 3,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 4,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 5,
-   "textures": 8,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-   ]
-  },
-  {
    "slot": "berd",
    "idx": 0,
    "textures": 4,
@@ -473,148 +372,12 @@
    ]
   },
   {
-   "slot": "feet",
-   "idx": 2,
-   "textures": 2,
-   "angle": 35,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 3,
-   "textures": 8,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-   ]
-  },
-  {
    "slot": "hair",
    "idx": 0,
    "textures": 1,
    "angle": 30,
    "pictures": [
     0
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 0,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 1,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 2,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 3,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 4,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 5,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 6,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 7,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 8,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
-   ]
-  },
-  {
-   "slot": "hand",
-   "idx": 9,
-   "textures": 3,
-   "angle": 180,
-   "pictures": [
-    0,
-    1,
-    2
    ]
   },
   {
@@ -1094,18 +857,15 @@
    "pictures": [
     0
    ]
-  },
-  {
-   "slot": "uppr",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
   }
  ],
  "empty": [
+  "accs_000",
+  "accs_001",
+  "accs_002",
+  "accs_003",
+  "accs_004",
+  "accs_005",
   "decl_000",
   "decl_001",
   "decl_002",
@@ -1116,6 +876,19 @@
   "decl_007",
   "decl_037",
   "decl_038",
-  "decl_039"
+  "decl_039",
+  "feet_002",
+  "feet_003",
+  "hand_000",
+  "hand_001",
+  "hand_002",
+  "hand_003",
+  "hand_004",
+  "hand_005",
+  "hand_006",
+  "hand_007",
+  "hand_008",
+  "hand_009",
+  "uppr_000"
  ]
 }

@@ -6,35 +6,6 @@
  "items": [
   {
    "slot": "accs",
-   "idx": 0,
-   "textures": 21,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
-  },
-  {
-   "slot": "accs",
    "idx": 1,
    "textures": 21,
    "angle": 0,
@@ -333,16 +304,6 @@
   },
   {
    "slot": "decl",
-   "idx": 26,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
    "idx": 27,
    "textures": 2,
    "angle": 0,
@@ -437,11 +398,20 @@
    "angle": 35,
    "pictures": [
     0,
+    1,
     2,
+    3,
+    4,
     5,
+    6,
+    7,
     8,
+    9,
+    10,
     11,
+    12,
     13,
+    14,
     15,
     16,
     17,
@@ -455,22 +425,15 @@
   },
   {
    "slot": "feet",
-   "idx": 2,
-   "textures": 2,
-   "angle": 35,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "feet",
    "idx": 3,
    "textures": 8,
    "angle": 35,
    "pictures": [
     0,
+    1,
     2,
+    3,
+    4,
     5,
     6,
     7
@@ -577,7 +540,7 @@
    "slot": "hand",
    "idx": 8,
    "textures": 3,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -604,6 +567,36 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 2,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 3,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 4,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
    ]
   },
   {
@@ -756,6 +749,9 @@
    "angle": 0,
    "pictures": [
     0,
+    1,
+    2,
+    3,
     4,
     5,
     6,
@@ -773,6 +769,17 @@
     18,
     19,
     20
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 13,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -926,6 +933,7 @@
    "angle": 0,
    "pictures": [
     0,
+    1,
     2,
     3,
     4,
@@ -1007,6 +1015,7 @@
   }
  ],
  "empty": [
+  "accs_000",
   "decl_000",
   "decl_001",
   "decl_002",
@@ -1015,15 +1024,13 @@
   "decl_005",
   "decl_006",
   "decl_007",
+  "decl_026",
   "decl_029",
   "decl_036",
   "decl_037",
   "decl_038",
+  "feet_002",
   "jbib_000",
-  "jbib_001",
-  "jbib_002",
-  "jbib_003",
-  "jbib_004",
-  "jbib_013"
+  "jbib_001"
  ]
 }

@@ -44,6 +44,15 @@
   },
   {
    "slot": "hand",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hand",
    "idx": 1,
    "textures": 5,
    "angle": 180,
@@ -300,7 +309,5 @@
    ]
   }
  ],
- "empty": [
-  "hand_000"
- ]
+ "empty": []
 }

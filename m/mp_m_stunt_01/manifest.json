@@ -5,68 +5,6 @@
  "format": "webp",
  "items": [
   {
-   "slot": "accs",
-   "idx": 0,
-   "textures": 6,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 1,
-   "textures": 16,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15
-   ]
-  },
-  {
-   "slot": "accs",
-   "idx": 2,
-   "textures": 16,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15
-   ]
-  },
-  {
    "slot": "berd",
    "idx": 0,
    "textures": 5,
@@ -77,94 +15,6 @@
     2,
     3,
     4
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 0,
-   "textures": 6,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 1,
-   "textures": 8,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 0,
-   "textures": 10,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 1,
-   "textures": 12,
-   "angle": 35,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 2,
-   "textures": 2,
-   "angle": 35,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "feet",
-   "idx": 3,
-   "textures": 2,
-   "angle": 35,
-   "pictures": [
-    0,
-    1
    ]
   },
   {
@@ -393,24 +243,6 @@
     9,
     10,
     11
-   ]
-  },
-  {
-   "slot": "lowr",
-   "idx": 2,
-   "textures": 10,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
    ]
   },
   {
@@ -742,54 +574,22 @@
     22,
     23
    ]
-  },
-  {
-   "slot": "uppr",
-   "idx": 0,
-   "textures": 12,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
-   ]
-  },
-  {
-   "slot": "uppr",
-   "idx": 1,
-   "textures": 16,
-   "angle": 0,
-   "pictures": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15
-   ]
   }
  ],
  "empty": [
+  "accs_000",
+  "accs_001",
+  "accs_002",
+  "decl_000",
+  "decl_001",
   "decl_002",
-  "decl_003"
+  "decl_003",
+  "feet_000",
+  "feet_001",
+  "feet_002",
+  "feet_003",
+  "lowr_002",
+  "uppr_000",
+  "uppr_001"
  ]
 }
