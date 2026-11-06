@@ -1681,7 +1681,29 @@
   },
   {
    "slot": "jbib",
+   "idx": 169,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 170,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 171,
    "textures": 3,
    "angle": 0,
    "pictures": [
@@ -1702,6 +1724,17 @@
   },
   {
    "slot": "jbib",
+   "idx": 173,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 174,
    "textures": 3,
    "angle": 0,
@@ -1714,6 +1747,17 @@
   {
    "slot": "jbib",
    "idx": 175,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 176,
    "textures": 3,
    "angle": 0,
    "pictures": [
@@ -1756,6 +1800,15 @@
   },
   {
    "slot": "jbib",
+   "idx": 180,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 181,
    "textures": 3,
    "angle": 0,
@@ -1763,6 +1816,16 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 182,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
    ]
   },
   {
@@ -2102,6 +2165,16 @@
   },
   {
    "slot": "jbib",
+   "idx": 217,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 218,
    "textures": 3,
    "angle": 0,
@@ -2109,6 +2182,15 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 219,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
    ]
   },
   {
@@ -2189,6 +2271,16 @@
     0,
     1,
     2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 228,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
    ]
   },
   {
@@ -2454,15 +2546,6 @@
   "jbib_115",
   "jbib_116",
   "jbib_167",
-  "jbib_169",
-  "jbib_171",
-  "jbib_173",
-  "jbib_176",
-  "jbib_180",
-  "jbib_182",
-  "jbib_217",
-  "jbib_219",
-  "jbib_228",
   "jbib_243"
  ],
  "unloaded": []
