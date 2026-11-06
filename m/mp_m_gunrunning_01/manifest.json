@@ -408,6 +408,25 @@
    ]
   },
   {
+   "slot": "decl",
+   "idx": 5,
+   "textures": 11,
+   "angle": 180,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
    "slot": "feet",
    "idx": 0,
    "textures": 26,
@@ -2275,13 +2294,6 @@
    ]
   }
  ],
- "empty": [
-  "decl_000",
-  "decl_001",
-  "decl_002",
-  "decl_003",
-  "decl_004",
-  "decl_005"
- ],
+ "empty": [],
  "unloaded": []
 }

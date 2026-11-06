@@ -109,7 +109,7 @@
    "slot": "decl",
    "idx": 6,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -118,7 +118,7 @@
    "slot": "decl",
    "idx": 7,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -127,7 +127,7 @@
    "slot": "decl",
    "idx": 8,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -136,7 +136,7 @@
    "slot": "decl",
    "idx": 9,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -907,13 +907,6 @@
    ]
   }
  ],
- "empty": [
-  "decl_000",
-  "decl_001",
-  "decl_002",
-  "decl_003",
-  "decl_004",
-  "decl_005"
- ],
+ "empty": [],
  "unloaded": []
 }

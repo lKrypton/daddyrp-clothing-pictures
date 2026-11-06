@@ -55,6 +55,15 @@
    ]
   },
   {
+   "slot": "berd",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "feet",
    "idx": 0,
    "textures": 1,
@@ -629,7 +638,6 @@
   }
  ],
  "empty": [
-  "berd_000",
   "lowr_000",
   "p_head_001"
  ],

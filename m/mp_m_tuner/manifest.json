@@ -173,7 +173,7 @@
    "slot": "decl",
    "idx": 9,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -182,7 +182,7 @@
    "slot": "decl",
    "idx": 10,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -191,7 +191,7 @@
    "slot": "decl",
    "idx": 11,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -200,7 +200,7 @@
    "slot": "decl",
    "idx": 12,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -209,7 +209,7 @@
    "slot": "decl",
    "idx": 13,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -218,7 +218,7 @@
    "slot": "decl",
    "idx": 14,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -254,7 +254,7 @@
    "slot": "decl",
    "idx": 18,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -263,7 +263,7 @@
    "slot": "decl",
    "idx": 19,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -272,7 +272,7 @@
    "slot": "decl",
    "idx": 20,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -281,7 +281,7 @@
    "slot": "decl",
    "idx": 21,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -290,7 +290,7 @@
    "slot": "decl",
    "idx": 22,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -299,7 +299,7 @@
    "slot": "decl",
    "idx": 23,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -326,7 +326,7 @@
    "slot": "decl",
    "idx": 26,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -346,7 +346,7 @@
    "slot": "decl",
    "idx": 28,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -355,19 +355,9 @@
    "slot": "decl",
    "idx": 29,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 30,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
    ]
   },
   {
@@ -414,7 +404,7 @@
    "slot": "decl",
    "idx": 35,
    "textures": 4,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -426,7 +416,7 @@
    "slot": "decl",
    "idx": 36,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -1105,18 +1095,6 @@
    ]
   }
  ],
- "empty": [
-  "decl_000",
-  "decl_001",
-  "decl_002",
-  "decl_003",
-  "decl_004",
-  "decl_005",
-  "decl_006",
-  "decl_007",
-  "decl_037",
-  "decl_038",
-  "decl_039"
- ],
+ "empty": [],
  "unloaded": []
 }

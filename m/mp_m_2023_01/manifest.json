@@ -140,7 +140,7 @@
    "slot": "decl",
    "idx": 13,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -160,7 +160,7 @@
    "slot": "decl",
    "idx": 15,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -170,7 +170,7 @@
    "slot": "decl",
    "idx": 17,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -202,7 +202,7 @@
    "slot": "decl",
    "idx": 23,
    "textures": 5,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -867,23 +867,6 @@
   "berd_005",
   "berd_006",
   "berd_008",
-  "decl_001",
-  "decl_002",
-  "decl_004",
-  "decl_005",
-  "decl_006",
-  "decl_008",
-  "decl_009",
-  "decl_011",
-  "decl_016",
-  "decl_018",
-  "decl_019",
-  "decl_020",
-  "decl_021",
-  "decl_024",
-  "decl_025",
-  "decl_026",
-  "decl_027",
   "feet_001",
   "feet_002",
   "feet_003",

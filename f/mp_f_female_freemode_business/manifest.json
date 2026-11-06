@@ -1882,6 +1882,15 @@
   },
   {
    "slot": "hair",
+   "idx": 164,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 165,
    "textures": 1,
    "angle": 30,
@@ -5131,7 +5140,6 @@
   }
  ],
  "empty": [
-  "hair_164",
   "jbib_043",
   "jbib_056",
   "jbib_063"

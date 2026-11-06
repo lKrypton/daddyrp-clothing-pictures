@@ -412,6 +412,20 @@
   },
   {
    "slot": "teef",
+   "idx": 10,
+   "textures": 6,
+   "angle": 180,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 11,
    "textures": 2,
    "angle": 0,
@@ -671,8 +685,7 @@
   }
  ],
  "empty": [
-  "p_ears_012",
-  "teef_010"
+  "p_ears_012"
  ],
  "unloaded": []
 }

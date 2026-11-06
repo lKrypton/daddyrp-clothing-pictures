@@ -65,6 +65,16 @@
   },
   {
    "slot": "accs",
+   "idx": 6,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "accs",
    "idx": 7,
    "textures": 1,
    "angle": 0,
@@ -3893,6 +3903,15 @@
   },
   {
    "slot": "hair",
+   "idx": 36,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 37,
    "textures": 1,
    "angle": 30,
@@ -4992,6 +5011,15 @@
   },
   {
    "slot": "hair",
+   "idx": 157,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 158,
    "textures": 1,
    "angle": 30,
@@ -5460,6 +5488,15 @@
   },
   {
    "slot": "hair",
+   "idx": 208,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 209,
    "textures": 1,
    "angle": 30,
@@ -5491,6 +5528,15 @@
    "idx": 212,
    "textures": 1,
    "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 213,
+   "textures": 1,
+   "angle": 0,
    "pictures": [
     0
    ]
@@ -5623,6 +5669,16 @@
    "idx": 227,
    "textures": 2,
    "angle": 30,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 228,
+   "textures": 2,
+   "angle": 0,
    "pictures": [
     0,
     1
@@ -9080,6 +9136,17 @@
   },
   {
    "slot": "teef",
+   "idx": 71,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 72,
    "textures": 1,
    "angle": 0,
@@ -9257,13 +9324,7 @@
   }
  ],
  "empty": [
-  "accs_006",
   "accs_184",
-  "hair_036",
-  "hair_157",
-  "hair_208",
-  "hair_213",
-  "hair_228",
   "jbib_000",
   "jbib_004",
   "jbib_106",
@@ -9271,7 +9332,6 @@
   "teef_046",
   "teef_052",
   "teef_060",
-  "teef_071",
   "teef_091",
   "teef_092"
  ],

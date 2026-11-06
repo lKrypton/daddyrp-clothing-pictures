@@ -170,7 +170,16 @@
    "slot": "decl",
    "idx": 3,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
+   "idx": 4,
+   "textures": 1,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -1586,6 +1595,16 @@
    ]
   },
   {
+   "slot": "p_head",
+   "idx": 13,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
    "slot": "p_lwrist",
    "idx": 0,
    "textures": 5,
@@ -1966,18 +1985,6 @@
   }
  ],
  "empty": [
-  "decl_000",
-  "decl_001",
-  "decl_002",
-  "decl_004",
-  "decl_005",
-  "decl_006",
-  "decl_007",
-  "decl_008",
-  "decl_009",
-  "decl_010",
-  "decl_011",
-  "p_head_013",
   "p_rwrist_001"
  ],
  "unloaded": []

@@ -101,15 +101,6 @@
   },
   {
    "slot": "decl",
-   "idx": 3,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
    "idx": 7,
    "textures": 1,
    "angle": 0,
@@ -119,29 +110,9 @@
   },
   {
    "slot": "decl",
-   "idx": 11,
-   "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
    "idx": 12,
    "textures": 2,
-   "angle": 0,
-   "pictures": [
-    0,
-    1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 13,
-   "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -151,7 +122,7 @@
    "slot": "decl",
    "idx": 14,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -159,9 +130,27 @@
   },
   {
    "slot": "decl",
-   "idx": 15,
+   "idx": 16,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
+   "idx": 17,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
+   "idx": 18,
+   "textures": 1,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -170,7 +159,7 @@
    "slot": "decl",
    "idx": 20,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
@@ -178,9 +167,27 @@
   },
   {
    "slot": "decl",
+   "idx": 23,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
+   "idx": 24,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
    "idx": 25,
    "textures": 14,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -196,6 +203,19 @@
     11,
     12,
     13
+   ]
+  },
+  {
+   "slot": "decl",
+   "idx": 26,
+   "textures": 5,
+   "angle": 180,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4
    ]
   },
   {
@@ -224,7 +244,7 @@
    "slot": "decl",
    "idx": 28,
    "textures": 5,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -1021,27 +1041,6 @@
   "berd_005",
   "berd_006",
   "berd_008",
-  "decl_001",
-  "decl_002",
-  "decl_004",
-  "decl_005",
-  "decl_006",
-  "decl_008",
-  "decl_009",
-  "decl_010",
-  "decl_016",
-  "decl_017",
-  "decl_018",
-  "decl_019",
-  "decl_021",
-  "decl_022",
-  "decl_023",
-  "decl_024",
-  "decl_026",
-  "decl_029",
-  "decl_030",
-  "decl_031",
-  "decl_032",
   "feet_001",
   "feet_003",
   "feet_004",

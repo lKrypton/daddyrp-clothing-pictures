@@ -8111,6 +8111,15 @@
   },
   {
    "slot": "teef",
+   "idx": 1,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 2,
    "textures": 1,
    "angle": 0,
@@ -8687,7 +8696,6 @@
   "hair_226",
   "hair_235",
   "hair_240",
-  "teef_001",
   "teef_006",
   "teef_024",
   "teef_052",

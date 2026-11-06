@@ -5,9 +5,18 @@
  "format": "webp",
  "items": [
   {
-   "slot": "lowr",
+   "slot": "decl",
    "idx": 0,
    "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "lowr",
+   "idx": 0,
+   "textures": 16,
    "angle": 0,
    "pictures": [
     0
@@ -32,7 +41,7 @@
   {
    "slot": "p_eyes",
    "idx": 2,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -51,7 +60,7 @@
   {
    "slot": "p_eyes",
    "idx": 3,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -70,7 +79,7 @@
   {
    "slot": "p_eyes",
    "idx": 4,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -89,7 +98,7 @@
   {
    "slot": "p_eyes",
    "idx": 5,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -108,7 +117,7 @@
   {
    "slot": "p_eyes",
    "idx": 7,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -127,7 +136,7 @@
   {
    "slot": "p_eyes",
    "idx": 8,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -146,7 +155,7 @@
   {
    "slot": "p_eyes",
    "idx": 9,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -165,7 +174,7 @@
   {
    "slot": "p_eyes",
    "idx": 10,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -184,7 +193,7 @@
   {
    "slot": "p_eyes",
    "idx": 12,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -203,7 +212,7 @@
   {
    "slot": "p_eyes",
    "idx": 13,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -222,7 +231,7 @@
   {
    "slot": "p_eyes",
    "idx": 15,
-   "textures": 11,
+   "textures": 8,
    "angle": 0,
    "pictures": [
     0,
@@ -615,7 +624,6 @@
  "empty": [
   "accs_000",
   "berd_000",
-  "decl_000",
   "hair_000",
   "hand_000",
   "jbib_000",

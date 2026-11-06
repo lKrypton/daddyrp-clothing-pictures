@@ -147,15 +147,6 @@
   },
   {
    "slot": "decl",
-   "idx": 0,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
    "idx": 1,
    "textures": 19,
    "angle": 0,

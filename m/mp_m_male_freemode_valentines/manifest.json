@@ -699,6 +699,15 @@
   },
   {
    "slot": "hair",
+   "idx": 78,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 79,
    "textures": 1,
    "angle": 30,
@@ -2271,6 +2280,15 @@
   {
    "slot": "hair",
    "idx": 253,
+   "textures": 1,
+   "angle": 30,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
+   "idx": 254,
    "textures": 1,
    "angle": 30,
    "pictures": [
@@ -7360,12 +7378,10 @@
  ],
  "empty": [
   "hair_044",
-  "hair_078",
   "hair_153",
   "hair_157",
   "hair_158",
-  "hair_174",
-  "hair_254"
+  "hair_174"
  ],
  "unloaded": []
 }

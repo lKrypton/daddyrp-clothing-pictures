@@ -495,9 +495,18 @@
   },
   {
    "slot": "decl",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
    "idx": 2,
    "textures": 7,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -512,7 +521,7 @@
    "slot": "decl",
    "idx": 3,
    "textures": 7,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1,
@@ -527,19 +536,10 @@
    "slot": "decl",
    "idx": 6,
    "textures": 2,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0,
     1
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 8,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
    ]
   },
   {
@@ -563,15 +563,6 @@
   {
    "slot": "decl",
    "idx": 11,
-   "textures": 1,
-   "angle": 0,
-   "pictures": [
-    0
-   ]
-  },
-  {
-   "slot": "decl",
-   "idx": 13,
    "textures": 1,
    "angle": 0,
    "pictures": [
@@ -1407,12 +1398,6 @@
   }
  ],
  "empty": [
-  "decl_000",
-  "decl_001",
-  "decl_004",
-  "decl_005",
-  "decl_007",
-  "decl_012",
   "task_000",
   "task_002"
  ],

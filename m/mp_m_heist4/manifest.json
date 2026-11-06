@@ -311,7 +311,7 @@
    "slot": "decl",
    "idx": 0,
    "textures": 1,
-   "angle": 0,
+   "angle": 180,
    "pictures": [
     0
    ]
@@ -983,6 +983,31 @@
   },
   {
    "slot": "teef",
+   "idx": 11,
+   "textures": 17,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 12,
    "textures": 17,
    "angle": 0,
@@ -1204,8 +1229,6 @@
    ]
   }
  ],
- "empty": [
-  "teef_011"
- ],
+ "empty": [],
  "unloaded": []
 }

@@ -56,6 +56,16 @@
   },
   {
    "slot": "accs",
+   "idx": 5,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "accs",
    "idx": 6,
    "textures": 2,
    "angle": 0,
@@ -3744,6 +3754,15 @@
   },
   {
    "slot": "hair",
+   "idx": 130,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "hair",
    "idx": 131,
    "textures": 1,
    "angle": 30,
@@ -4988,6 +5007,16 @@
    "idx": 13,
    "textures": 2,
    "angle": 180,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "hand",
+   "idx": 14,
+   "textures": 2,
+   "angle": -135,
    "pictures": [
     0,
     1
@@ -8597,13 +8626,10 @@
   }
  ],
  "empty": [
-  "accs_005",
   "accs_220",
   "accs_254",
-  "hair_130",
   "hand_000",
   "hand_008",
-  "hand_014",
   "hand_020",
   "hand_031",
   "hand_058",
