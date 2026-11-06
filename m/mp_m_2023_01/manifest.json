@@ -443,6 +443,15 @@
   },
   {
    "slot": "jbib",
+   "idx": 36,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
    "idx": 37,
    "textures": 2,
    "angle": 0,
@@ -722,6 +731,24 @@
   },
   {
    "slot": "p_eyes",
+   "idx": 2,
+   "textures": 1,
+   "angle": 135,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_eyes",
+   "idx": 3,
+   "textures": 1,
+   "angle": 135,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_eyes",
    "idx": 4,
    "textures": 9,
    "angle": 0,
@@ -833,6 +860,24 @@
   },
   {
    "slot": "teef",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 1,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
    "idx": 4,
    "textures": 5,
    "angle": 0,
@@ -867,6 +912,23 @@
   "berd_005",
   "berd_006",
   "berd_008",
+  "decl_001",
+  "decl_002",
+  "decl_004",
+  "decl_005",
+  "decl_006",
+  "decl_008",
+  "decl_009",
+  "decl_011",
+  "decl_016",
+  "decl_018",
+  "decl_019",
+  "decl_020",
+  "decl_021",
+  "decl_024",
+  "decl_025",
+  "decl_026",
+  "decl_027",
   "feet_001",
   "feet_002",
   "feet_003",
@@ -895,7 +957,6 @@
   "jbib_032",
   "jbib_033",
   "jbib_034",
-  "jbib_036",
   "jbib_040",
   "jbib_041",
   "jbib_042",
@@ -914,12 +975,8 @@
   "lowr_007",
   "lowr_009",
   "lowr_011",
-  "p_eyes_002",
-  "p_eyes_003",
   "p_head_003",
   "p_head_004",
-  "teef_000",
-  "teef_001",
   "teef_002",
   "teef_003",
   "teef_006",

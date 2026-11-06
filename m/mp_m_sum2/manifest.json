@@ -1061,6 +1061,9 @@
    ]
   }
  ],
- "empty": [],
+ "empty": [
+  "decl_001",
+  "decl_002"
+ ],
  "unloaded": []
 }

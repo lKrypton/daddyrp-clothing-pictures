@@ -302,6 +302,15 @@
    ]
   },
   {
+   "slot": "decl",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "feet",
    "idx": 0,
    "textures": 1,

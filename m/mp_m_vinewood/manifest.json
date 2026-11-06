@@ -257,6 +257,15 @@
   },
   {
    "slot": "decl",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
    "idx": 1,
    "textures": 19,
    "angle": 0,
@@ -1427,6 +1436,132 @@
    ]
   },
   {
+   "slot": "task",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 1,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 2,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 3,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 4,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 5,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 6,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 7,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 8,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 9,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 10,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 11,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 12,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 13,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "teef",
    "idx": 0,
    "textures": 16,
@@ -1461,20 +1596,6 @@
   }
  ],
  "empty": [
-  "task_000",
-  "task_001",
-  "task_002",
-  "task_003",
-  "task_004",
-  "task_005",
-  "task_006",
-  "task_007",
-  "task_008",
-  "task_009",
-  "task_010",
-  "task_011",
-  "task_012",
-  "task_013",
   "task_014"
  ],
  "unloaded": []

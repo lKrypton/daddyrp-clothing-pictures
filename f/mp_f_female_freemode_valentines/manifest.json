@@ -4895,6 +4895,16 @@
   },
   {
    "slot": "hand",
+   "idx": 0,
+   "textures": 2,
+   "angle": 0,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "hand",
    "idx": 1,
    "textures": 3,
    "angle": 180,
@@ -8628,7 +8638,6 @@
  "empty": [
   "accs_220",
   "accs_254",
-  "hand_000",
   "hand_008",
   "hand_020",
   "hand_031",

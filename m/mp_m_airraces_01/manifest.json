@@ -283,6 +283,8 @@
    ]
   }
  ],
- "empty": [],
+ "empty": [
+  "decl_001"
+ ],
  "unloaded": []
 }

@@ -25,6 +25,15 @@
   },
   {
    "slot": "accs",
+   "idx": 2,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "accs",
    "idx": 3,
    "textures": 1,
    "angle": 0,
@@ -2271,7 +2280,8 @@
   }
  ],
  "empty": [
-  "accs_002"
+  "decl_000",
+  "decl_001"
  ],
  "unloaded": []
 }

@@ -16,7 +16,7 @@
   {
    "slot": "lowr",
    "idx": 0,
-   "textures": 16,
+   "textures": 1,
    "angle": 0,
    "pictures": [
     0
@@ -41,7 +41,7 @@
   {
    "slot": "p_eyes",
    "idx": 2,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -60,7 +60,7 @@
   {
    "slot": "p_eyes",
    "idx": 3,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -79,7 +79,7 @@
   {
    "slot": "p_eyes",
    "idx": 4,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -98,7 +98,7 @@
   {
    "slot": "p_eyes",
    "idx": 5,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -117,7 +117,7 @@
   {
    "slot": "p_eyes",
    "idx": 7,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -136,7 +136,7 @@
   {
    "slot": "p_eyes",
    "idx": 8,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -155,7 +155,7 @@
   {
    "slot": "p_eyes",
    "idx": 9,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -174,7 +174,7 @@
   {
    "slot": "p_eyes",
    "idx": 10,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -193,7 +193,7 @@
   {
    "slot": "p_eyes",
    "idx": 12,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -212,7 +212,7 @@
   {
    "slot": "p_eyes",
    "idx": 13,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,
@@ -231,7 +231,7 @@
   {
    "slot": "p_eyes",
    "idx": 15,
-   "textures": 8,
+   "textures": 11,
    "angle": 0,
    "pictures": [
     0,

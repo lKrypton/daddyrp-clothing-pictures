@@ -1177,17 +1177,83 @@
     24,
     25
    ]
+  },
+  {
+   "slot": "task",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 1,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 2,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 3,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 4,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 5,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 6,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 7,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
   }
  ],
  "empty": [
-  "task_000",
-  "task_001",
-  "task_002",
-  "task_003",
-  "task_004",
-  "task_005",
-  "task_006",
-  "task_007",
+  "decl_000",
+  "decl_001",
   "task_008"
  ],
  "unloaded": []

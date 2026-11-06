@@ -4125,6 +4125,15 @@
   },
   {
    "slot": "decl",
+   "idx": 77,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
    "idx": 78,
    "textures": 1,
    "angle": 0,
@@ -4445,6 +4454,15 @@
   },
   {
    "slot": "decl",
+   "idx": 114,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
    "idx": 115,
    "textures": 1,
    "angle": 0,
@@ -4464,6 +4482,15 @@
   {
    "slot": "decl",
    "idx": 117,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "decl",
+   "idx": 118,
    "textures": 1,
    "angle": 0,
    "pictures": [
@@ -15890,6 +15917,15 @@
   },
   {
    "slot": "p_eyes",
+   "idx": 25,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_eyes",
    "idx": 26,
    "textures": 8,
    "angle": 0,
@@ -22209,6 +22245,28 @@
   "berd_190",
   "berd_191",
   "berd_202",
+  "decl_000",
+  "decl_016",
+  "decl_018",
+  "decl_019",
+  "decl_020",
+  "decl_021",
+  "decl_022",
+  "decl_023",
+  "decl_024",
+  "decl_041",
+  "decl_050",
+  "decl_051",
+  "decl_052",
+  "decl_053",
+  "decl_054",
+  "decl_055",
+  "decl_062",
+  "decl_066",
+  "decl_098",
+  "decl_099",
+  "decl_102",
+  "decl_121",
   "feet_103",
   "hair_064",
   "hair_137",
@@ -22222,7 +22280,6 @@
   "hand_047",
   "p_eyes_004",
   "p_eyes_024",
-  "p_eyes_025",
   "p_eyes_027",
   "p_eyes_036",
   "p_eyes_039",

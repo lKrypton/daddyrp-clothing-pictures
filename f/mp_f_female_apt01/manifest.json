@@ -427,6 +427,15 @@
   },
   {
    "slot": "lowr",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "lowr",
    "idx": 1,
    "textures": 7,
    "angle": 0,
@@ -661,8 +670,6 @@
    ]
   }
  ],
- "empty": [
-  "lowr_000"
- ],
+ "empty": [],
  "unloaded": []
 }

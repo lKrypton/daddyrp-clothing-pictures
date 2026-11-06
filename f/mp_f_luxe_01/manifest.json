@@ -421,6 +421,15 @@
    ]
   },
   {
+   "slot": "task",
+   "idx": 0,
+   "textures": 1,
+   "angle": 180,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "teef",
    "idx": 0,
    "textures": 2,
@@ -667,7 +676,6 @@
   "p_ears_006",
   "p_ears_007",
   "p_ears_008",
-  "task_000",
   "task_001"
  ],
  "unloaded": []

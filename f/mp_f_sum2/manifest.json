@@ -1234,6 +1234,9 @@
    ]
   }
  ],
- "empty": [],
+ "empty": [
+  "decl_000",
+  "decl_001"
+ ],
  "unloaded": []
 }

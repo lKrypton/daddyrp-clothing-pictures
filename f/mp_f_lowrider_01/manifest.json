@@ -374,6 +374,8 @@
    ]
   }
  ],
- "empty": [],
+ "empty": [
+  "decl_000"
+ ],
  "unloaded": []
 }
