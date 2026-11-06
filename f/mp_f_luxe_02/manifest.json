@@ -64,10 +64,124 @@
    ]
   },
   {
+   "slot": "p_head",
+   "idx": 0,
+   "textures": 8,
+   "angle": 15,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "slot": "p_lwrist",
+   "idx": 0,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_lwrist",
+   "idx": 1,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_lwrist",
+   "idx": 2,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_lwrist",
+   "idx": 3,
+   "textures": 3,
+   "angle": -90,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "p_rwrist",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_rwrist",
+   "idx": 1,
+   "textures": 1,
+   "angle": 90,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_rwrist",
+   "idx": 2,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "p_rwrist",
    "idx": 3,
    "textures": 1,
    "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_rwrist",
+   "idx": 4,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_rwrist",
+   "idx": 5,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "p_rwrist",
+   "idx": 6,
+   "textures": 1,
+   "angle": 90,
    "pictures": [
     0
    ]
@@ -289,26 +403,55 @@
    "pictures": [
     0
    ]
+  },
+  {
+   "slot": "teef",
+   "idx": 23,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 24,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 25,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 26,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 27,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
   }
  ],
  "empty": [
-  "p_head_000",
-  "p_lwrist_000",
-  "p_lwrist_001",
-  "p_lwrist_002",
-  "p_lwrist_003",
-  "p_rwrist_000",
-  "p_rwrist_001",
-  "p_rwrist_002",
-  "p_rwrist_004",
-  "p_rwrist_005",
-  "p_rwrist_006",
-  "teef_010",
-  "teef_023",
-  "teef_024",
-  "teef_025",
-  "teef_026",
-  "teef_027"
+  "teef_010"
  ],
  "unloaded": []
 }

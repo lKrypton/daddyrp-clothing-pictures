@@ -6,6 +6,33 @@
  "items": [
   {
    "slot": "accs",
+   "idx": 0,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "accs",
+   "idx": 1,
+   "textures": 8,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "slot": "accs",
    "idx": 2,
    "textures": 8,
    "angle": 0,
@@ -424,9 +451,6 @@
    ]
   }
  ],
- "empty": [
-  "accs_000",
-  "accs_001"
- ],
+ "empty": [],
  "unloaded": []
 }

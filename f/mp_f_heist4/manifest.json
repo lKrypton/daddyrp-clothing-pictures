@@ -6,6 +6,34 @@
  "items": [
   {
    "slot": "accs",
+   "idx": 0,
+   "textures": 20,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "slot": "accs",
    "idx": 1,
    "textures": 16,
    "angle": 0,
@@ -274,8 +302,26 @@
    ]
   },
   {
+   "slot": "decl",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
    "slot": "feet",
    "idx": 0,
+   "textures": 1,
+   "angle": 35,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "feet",
+   "idx": 1,
    "textures": 1,
    "angle": 35,
    "pictures": [
@@ -773,6 +819,26 @@
    ]
   },
   {
+   "slot": "p_rwrist",
+   "idx": 0,
+   "textures": 12,
+   "angle": 90,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
    "slot": "teef",
    "idx": 0,
    "textures": 3,
@@ -786,6 +852,39 @@
   {
    "slot": "teef",
    "idx": 1,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 3,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 4,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 5,
    "textures": 3,
    "angle": 0,
    "pictures": [
@@ -819,6 +918,17 @@
   {
    "slot": "teef",
    "idx": 8,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "teef",
+   "idx": 9,
    "textures": 3,
    "angle": 0,
    "pictures": [
@@ -1051,15 +1161,7 @@
   }
  ],
  "empty": [
-  "accs_000",
-  "decl_000",
-  "feet_001",
-  "p_rwrist_000",
   "teef_002",
-  "teef_003",
-  "teef_004",
-  "teef_005",
-  "teef_009",
   "teef_011",
   "teef_012"
  ],

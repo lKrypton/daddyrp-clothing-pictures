@@ -248,10 +248,19 @@
     14,
     15
    ]
+  },
+  {
+   "slot": "uppr",
+   "idx": 0,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
   }
  ],
- "empty": [
-  "uppr_000"
- ],
+ "empty": [],
  "unloaded": []
 }

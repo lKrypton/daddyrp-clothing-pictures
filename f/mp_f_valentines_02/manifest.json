@@ -5,8 +5,48 @@
  "format": "webp",
  "items": [
   {
+   "slot": "accs",
+   "idx": 0,
+   "textures": 12,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
    "slot": "feet",
    "idx": 0,
+   "textures": 12,
+   "angle": 35,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "slot": "feet",
+   "idx": 1,
    "textures": 12,
    "angle": 35,
    "pictures": [
@@ -140,9 +180,6 @@
    ]
   }
  ],
- "empty": [
-  "accs_000",
-  "feet_001"
- ],
+ "empty": [],
  "unloaded": []
 }

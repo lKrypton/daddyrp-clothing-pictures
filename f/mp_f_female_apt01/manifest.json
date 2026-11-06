@@ -6,6 +6,19 @@
  "items": [
   {
    "slot": "accs",
+   "idx": 0,
+   "textures": 5,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "slot": "accs",
    "idx": 1,
    "textures": 1,
    "angle": 0,
@@ -52,6 +65,25 @@
   },
   {
    "slot": "feet",
+   "idx": 1,
+   "textures": 1,
+   "angle": 35,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "feet",
+   "idx": 2,
+   "textures": 2,
+   "angle": 35,
+   "pictures": [
+    0,
+    1
+   ]
+  },
+  {
+   "slot": "feet",
    "idx": 3,
    "textures": 4,
    "angle": 35,
@@ -73,6 +105,65 @@
     2,
     3,
     4
+   ]
+  },
+  {
+   "slot": "feet",
+   "idx": 5,
+   "textures": 5,
+   "angle": 35,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 0,
+   "textures": 1,
+   "angle": 0,
+   "pictures": [
+    0
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 1,
+   "textures": 7,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 2,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "jbib",
+   "idx": 3,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
    ]
   },
   {
@@ -500,6 +591,28 @@
    ]
   },
   {
+   "slot": "task",
+   "idx": 1,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "slot": "task",
+   "idx": 2,
+   "textures": 3,
+   "angle": 0,
+   "pictures": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
    "slot": "teef",
    "idx": 0,
    "textures": 3,
@@ -540,18 +653,8 @@
   }
  ],
  "empty": [
-  "accs_000",
   "berd_000",
-  "feet_001",
-  "feet_002",
-  "feet_005",
-  "jbib_000",
-  "jbib_001",
-  "jbib_002",
-  "jbib_003",
-  "lowr_000",
-  "task_001",
-  "task_002"
+  "lowr_000"
  ],
  "unloaded": []
 }
